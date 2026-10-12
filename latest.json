@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-12T11:00:25.974275+08:00",
-  "report_time": "2026-10-12T11:00:18.942699+08:00",
+  "generated_at": "2026-10-12T11:15:27.547558+08:00",
+  "report_time": "2026-10-12T11:15:19.119380+08:00",
   "timezone": "Asia/Shanghai",
   "status": "正常",
   "mode": "live",
@@ -10,16 +10,16 @@
   "scope": "当日涨停池、炸板池及已跟踪候选；按涨停参考价核验，不保证池外无漏收",
   "rows": [
     {
-      "code": "881274.TI",
-      "name": "影视院线",
-      "previous_count": 3,
-      "count": 4,
+      "code": "881272.TI",
+      "name": "软件开发",
+      "previous_count": 1,
+      "count": 2,
       "delta": 1,
       "state": "增加",
       "added": [
         {
-          "code": "000892.SZ",
-          "name": "欢瑞世纪"
+          "code": "603232.SH",
+          "name": "格尔软件"
         }
       ],
       "removed": [],
@@ -31,26 +31,16 @@
       "previous_count": 8,
       "count": 8,
       "delta": 0,
-      "state": "持平（有换股）",
-      "added": [
-        {
-          "code": "603533.SH",
-          "name": "掌阅科技"
-        }
-      ],
-      "removed": [
-        {
-          "code": "002264.SZ",
-          "name": "新华都"
-        }
-      ],
+      "state": "持平",
+      "added": [],
+      "removed": [],
       "pending": []
     },
     {
-      "code": "881109.TI",
-      "name": "化学制品",
-      "previous_count": 2,
-      "count": 2,
+      "code": "881278.TI",
+      "name": "电网设备",
+      "previous_count": 4,
+      "count": 4,
       "delta": 0,
       "state": "持平",
       "added": [],
@@ -58,8 +48,8 @@
       "pending": []
     },
     {
-      "code": "881118.TI",
-      "name": "专用设备",
+      "code": "881109.TI",
+      "name": "化学制品",
       "previous_count": 2,
       "count": 2,
       "delta": 0,
@@ -157,17 +147,6 @@
       "pending": []
     },
     {
-      "code": "881181.TI",
-      "name": "环境治理",
-      "previous_count": 1,
-      "count": 1,
-      "delta": 0,
-      "state": "持平",
-      "added": [],
-      "removed": [],
-      "pending": []
-    },
-    {
       "code": "881269.TI",
       "name": "轨交设备",
       "previous_count": 1,
@@ -181,17 +160,6 @@
     {
       "code": "881271.TI",
       "name": "IT服务",
-      "previous_count": 1,
-      "count": 1,
-      "delta": 0,
-      "state": "持平",
-      "added": [],
-      "removed": [],
-      "pending": []
-    },
-    {
-      "code": "881272.TI",
-      "name": "软件开发",
       "previous_count": 1,
       "count": 1,
       "delta": 0,
@@ -322,6 +290,17 @@
       "pending": []
     },
     {
+      "code": "881121.TI",
+      "name": "半导体",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
       "code": "881122.TI",
       "name": "光学光电子",
       "previous_count": 0,
@@ -357,6 +336,17 @@
     {
       "code": "881125.TI",
       "name": "汽车整车",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881126.TI",
+      "name": "汽车零部件",
       "previous_count": 0,
       "count": 0,
       "delta": 0,
@@ -861,6 +851,17 @@
       "pending": []
     },
     {
+      "code": "881270.TI",
+      "name": "元件",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
       "code": "881273.TI",
       "name": "白酒",
       "previous_count": 0,
@@ -938,24 +939,40 @@
       "pending": []
     },
     {
-      "code": "881278.TI",
-      "name": "电网设备",
-      "previous_count": 5,
-      "count": 4,
+      "code": "881274.TI",
+      "name": "影视院线",
+      "previous_count": 4,
+      "count": 3,
       "delta": -1,
       "state": "减少",
       "added": [],
       "removed": [
         {
-          "code": "600550.SH",
-          "name": "保变电气"
+          "code": "000892.SZ",
+          "name": "欢瑞世纪"
         }
       ],
       "pending": []
     },
     {
-      "code": "881121.TI",
-      "name": "半导体",
+      "code": "881118.TI",
+      "name": "专用设备",
+      "previous_count": 2,
+      "count": 1,
+      "delta": -1,
+      "state": "减少",
+      "added": [],
+      "removed": [
+        {
+          "code": "603956.SH",
+          "name": "威派格"
+        }
+      ],
+      "pending": []
+    },
+    {
+      "code": "881181.TI",
+      "name": "环境治理",
       "previous_count": 1,
       "count": 0,
       "delta": -1,
@@ -963,40 +980,8 @@
       "added": [],
       "removed": [
         {
-          "code": "603690.SH",
-          "name": "至纯科技"
-        }
-      ],
-      "pending": []
-    },
-    {
-      "code": "881126.TI",
-      "name": "汽车零部件",
-      "previous_count": 1,
-      "count": 0,
-      "delta": -1,
-      "state": "减少",
-      "added": [],
-      "removed": [
-        {
-          "code": "603730.SH",
-          "name": "岱美股份"
-        }
-      ],
-      "pending": []
-    },
-    {
-      "code": "881270.TI",
-      "name": "元件",
-      "previous_count": 1,
-      "count": 0,
-      "delta": -1,
-      "state": "减少",
-      "added": [],
-      "removed": [
-        {
-          "code": "002938.SZ",
-          "name": "鹏鼎控股"
+          "code": "002549.SZ",
+          "name": "凯美特气"
         }
       ],
       "pending": []
@@ -1052,11 +1037,11 @@
   ],
   "notice": "两次快照状态对比，不统计期间全部炸板/回封；无逐股行情时间戳。仅供观察。",
   "trade_date": "2026-10-12",
-  "requested_at": "2026-10-12T11:00:04.556184+08:00",
+  "requested_at": "2026-10-12T11:15:04.182301+08:00",
   "data_times": [
-    "2026-10-12T11:00:07.340000+08:00",
-    "2026-10-12T10:59:42.876000+08:00",
-    "2026-10-12T11:00:15+08:00"
+    "2026-10-12T11:14:42.372000+08:00",
+    "2026-10-12T11:14:46.008000+08:00",
+    "2026-10-12T11:15:16+08:00"
   ],
   "comparison_interval_minutes": 15.0,
   "member_catalog_time": "2026-10-09T16:18:00.581086+08:00",
