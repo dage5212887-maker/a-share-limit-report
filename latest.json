@@ -1,0 +1,1107 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-12T10:58:08.173470+08:00",
+  "report_time": "2026-10-12T10:45:19.301188+08:00",
+  "timezone": "Asia/Shanghai",
+  "status": "正常",
+  "mode": "live",
+  "report_stale_after_seconds": 1200,
+  "source": "同花顺一级行业881",
+  "scope": "当日涨停池、炸板池及已跟踪候选；按涨停参考价核验，不保证池外无漏收",
+  "rows": [
+    {
+      "code": "881164.TI",
+      "name": "文化传媒",
+      "previous_count": 6,
+      "count": 8,
+      "delta": 2,
+      "state": "增加",
+      "added": [
+        {
+          "code": "002264.SZ",
+          "name": "新 华 都"
+        },
+        {
+          "code": "601929.SH",
+          "name": "吉视传媒"
+        }
+      ],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881274.TI",
+      "name": "影视院线",
+      "previous_count": 2,
+      "count": 3,
+      "delta": 1,
+      "state": "增加",
+      "added": [
+        {
+          "code": "601595.SH",
+          "name": "上海电影"
+        }
+      ],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881109.TI",
+      "name": "化学制品",
+      "previous_count": 1,
+      "count": 2,
+      "delta": 1,
+      "state": "增加",
+      "added": [
+        {
+          "code": "603155.SH",
+          "name": "新亚强"
+        }
+      ],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881118.TI",
+      "name": "专用设备",
+      "previous_count": 1,
+      "count": 2,
+      "delta": 1,
+      "state": "增加",
+      "added": [
+        {
+          "code": "603956.SH",
+          "name": "威派格"
+        }
+      ],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881121.TI",
+      "name": "半导体",
+      "previous_count": 0,
+      "count": 1,
+      "delta": 1,
+      "state": "增加",
+      "added": [
+        {
+          "code": "603690.SH",
+          "name": "至纯科技"
+        }
+      ],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881126.TI",
+      "name": "汽车零部件",
+      "previous_count": 0,
+      "count": 1,
+      "delta": 1,
+      "state": "增加",
+      "added": [
+        {
+          "code": "603730.SH",
+          "name": "岱美股份"
+        }
+      ],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881130.TI",
+      "name": "计算机设备",
+      "previous_count": 0,
+      "count": 1,
+      "delta": 1,
+      "state": "增加",
+      "added": [
+        {
+          "code": "002990.SZ",
+          "name": "盛视科技"
+        }
+      ],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881173.TI",
+      "name": "小家电",
+      "previous_count": 0,
+      "count": 1,
+      "delta": 1,
+      "state": "增加",
+      "added": [
+        {
+          "code": "002242.SZ",
+          "name": "九阳股份"
+        }
+      ],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881181.TI",
+      "name": "环境治理",
+      "previous_count": 0,
+      "count": 1,
+      "delta": 1,
+      "state": "增加",
+      "added": [
+        {
+          "code": "002549.SZ",
+          "name": "凯美特气"
+        }
+      ],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881270.TI",
+      "name": "元件",
+      "previous_count": 0,
+      "count": 1,
+      "delta": 1,
+      "state": "增加",
+      "added": [
+        {
+          "code": "002938.SZ",
+          "name": "鹏鼎控股"
+        }
+      ],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881271.TI",
+      "name": "IT服务",
+      "previous_count": 0,
+      "count": 1,
+      "delta": 1,
+      "state": "增加",
+      "added": [
+        {
+          "code": "688004.SH",
+          "name": "博汇科技"
+        }
+      ],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881278.TI",
+      "name": "电网设备",
+      "previous_count": 5,
+      "count": 5,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881140.TI",
+      "name": "化学制药",
+      "previous_count": 2,
+      "count": 2,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881103.TI",
+      "name": "农产品加工",
+      "previous_count": 1,
+      "count": 1,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881116.TI",
+      "name": "建筑装饰",
+      "previous_count": 1,
+      "count": 1,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881129.TI",
+      "name": "通信设备",
+      "previous_count": 1,
+      "count": 1,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881158.TI",
+      "name": "零售",
+      "previous_count": 1,
+      "count": 1,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881177.TI",
+      "name": "互联网电商",
+      "previous_count": 1,
+      "count": 1,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881269.TI",
+      "name": "轨交设备",
+      "previous_count": 1,
+      "count": 1,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881272.TI",
+      "name": "软件开发",
+      "previous_count": 1,
+      "count": 1,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881277.TI",
+      "name": "电机",
+      "previous_count": 1,
+      "count": 1,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881280.TI",
+      "name": "风电设备",
+      "previous_count": 1,
+      "count": 1,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881101.TI",
+      "name": "种植业与林业",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881102.TI",
+      "name": "养殖业",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881105.TI",
+      "name": "煤炭开采加工",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881107.TI",
+      "name": "油气开采及服务",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881108.TI",
+      "name": "化学原料",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881112.TI",
+      "name": "钢铁",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881114.TI",
+      "name": "金属新材料",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881115.TI",
+      "name": "建筑材料",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881117.TI",
+      "name": "通用设备",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881122.TI",
+      "name": "光学光电子",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881123.TI",
+      "name": "其他电子",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881124.TI",
+      "name": "消费电子",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881125.TI",
+      "name": "汽车整车",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881128.TI",
+      "name": "汽车服务及其他",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881131.TI",
+      "name": "白色家电",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881132.TI",
+      "name": "黑色家电",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881133.TI",
+      "name": "饮料制造",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881134.TI",
+      "name": "食品加工制造",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881135.TI",
+      "name": "纺织制造",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881136.TI",
+      "name": "服装家纺",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881137.TI",
+      "name": "造纸",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881138.TI",
+      "name": "包装印刷",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881141.TI",
+      "name": "中药",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881142.TI",
+      "name": "生物制品",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881143.TI",
+      "name": "医药商业",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881144.TI",
+      "name": "医疗器械",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881146.TI",
+      "name": "燃气",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881148.TI",
+      "name": "港口航运",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881149.TI",
+      "name": "公路铁路运输",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881151.TI",
+      "name": "机场航运",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881152.TI",
+      "name": "物流",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881153.TI",
+      "name": "房地产",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881155.TI",
+      "name": "银行",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881156.TI",
+      "name": "保险",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881157.TI",
+      "name": "证券",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881159.TI",
+      "name": "贸易",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881160.TI",
+      "name": "旅游及酒店",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881162.TI",
+      "name": "通信服务",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881165.TI",
+      "name": "综合",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881166.TI",
+      "name": "军工装备",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881167.TI",
+      "name": "非金属材料",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881168.TI",
+      "name": "工业金属",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881169.TI",
+      "name": "贵金属",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881170.TI",
+      "name": "小金属",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881171.TI",
+      "name": "自动化设备",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881172.TI",
+      "name": "电子化学品",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881174.TI",
+      "name": "厨卫电器",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881175.TI",
+      "name": "医疗服务",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881178.TI",
+      "name": "教育",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881179.TI",
+      "name": "其他社会服务",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881180.TI",
+      "name": "石油加工贸易",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881182.TI",
+      "name": "美容护理",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881263.TI",
+      "name": "农化制品",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881264.TI",
+      "name": "化学纤维",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881265.TI",
+      "name": "塑料制品",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881266.TI",
+      "name": "橡胶制品",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881268.TI",
+      "name": "工程机械",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881273.TI",
+      "name": "白酒",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881275.TI",
+      "name": "游戏",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881276.TI",
+      "name": "军工电子",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881279.TI",
+      "name": "光伏设备",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881282.TI",
+      "name": "其他电源设备",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881283.TI",
+      "name": "多元金融",
+      "previous_count": 0,
+      "count": 0,
+      "delta": 0,
+      "state": "持平",
+      "added": [],
+      "removed": [],
+      "pending": []
+    },
+    {
+      "code": "881145.TI",
+      "name": "电力",
+      "previous_count": 1,
+      "count": 0,
+      "delta": -1,
+      "state": "减少",
+      "added": [],
+      "removed": [
+        {
+          "code": "000601.SZ",
+          "name": "韶能股份"
+        }
+      ],
+      "pending": []
+    },
+    {
+      "code": "881281.TI",
+      "name": "电池",
+      "previous_count": 2,
+      "count": 0,
+      "delta": -2,
+      "state": "减少",
+      "added": [],
+      "removed": [
+        {
+          "code": "600241.SH",
+          "name": "时代万恒"
+        },
+        {
+          "code": "603032.SH",
+          "name": "德新科技"
+        }
+      ],
+      "pending": []
+    },
+    {
+      "code": "881139.TI",
+      "name": "家居用品",
+      "previous_count": null,
+      "count": 2,
+      "delta": null,
+      "state": "待核验",
+      "added": [],
+      "removed": [],
+      "pending": [
+        {
+          "code": "603272.SH",
+          "name": "*ST联翔"
+        }
+      ]
+    },
+    {
+      "code": "881267.TI",
+      "name": "能源金属",
+      "previous_count": null,
+      "count": 0,
+      "delta": null,
+      "state": "待核验",
+      "added": [],
+      "removed": [],
+      "pending": [
+        {
+          "code": "002667.SZ",
+          "name": "*ST威领"
+        }
+      ]
+    },
+    {
+      "code": "881284.TI",
+      "name": "环保设备",
+      "previous_count": null,
+      "count": 0,
+      "delta": null,
+      "state": "待核验",
+      "added": [],
+      "removed": [],
+      "pending": [
+        {
+          "code": "301030.SZ",
+          "name": "*ST仕净"
+        }
+      ]
+    }
+  ],
+  "notice": "两次快照状态对比，不统计期间全部炸板/回封；无逐股行情时间戳。仅供观察。",
+  "trade_date": "2026-10-12",
+  "requested_at": "2026-10-12T10:45:03.108521+08:00",
+  "data_times": [
+    "2026-10-12T10:44:53.493000+08:00",
+    "2026-10-12T10:45:03.029000+08:00",
+    "2026-10-12T10:45:16+08:00"
+  ],
+  "comparison_interval_minutes": 30.0,
+  "member_catalog_time": "2026-10-09T16:18:00.581086+08:00",
+  "coverage": {
+    "sectors": 90,
+    "stock_quotes": 75,
+    "candidates": 75,
+    "unmapped_candidates": 0
+  }
+}
