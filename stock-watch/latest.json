@@ -1,0 +1,186 @@
+{
+  "status": "complete",
+  "mode": "intraday",
+  "trade_date": "2026-11-12",
+  "requested_at": "2026-11-12T10:46:46.350025+08:00",
+  "completed_at": "2026-11-12T10:48:02.993065+08:00",
+  "elapsed_seconds": 76.643,
+  "quote_rows": 5580,
+  "quote_valid_rows": 5572,
+  "quote_valid_coverage": 0.9985663082437276,
+  "index_requested": 390,
+  "index_valid": 390,
+  "history_as_of": "2026-11-11",
+  "slots": 4,
+  "unique_stocks": 2,
+  "rule_checked": 67,
+  "rule_pending": 6,
+  "stock_rule_version": "intraday-strength-v1",
+  "ranking_scope": "完整刷新390个概念指数后，剔除属性、宽泛背景及大方向，仅从266个已分类具体题材按涨幅选前5；未与客户端全榜逐项验收",
+  "public_schema_version": 1,
+  "refresh_interval_seconds": 300,
+  "source": "同花顺接口；具体题材涨幅前5；公式观察候选",
+  "individual_realtime_verified": false,
+  "topic_filter": {
+    "filter_enabled": true,
+    "eligible_count": 266,
+    "excluded_count": 124,
+    "directory_count": 390,
+    "categories": {
+      "parent": 39,
+      "specific": 266,
+      "background": 65,
+      "attribute": 20
+    }
+  },
+  "stocks": [
+    {
+      "code": "301209.SZ",
+      "name": "联合化学",
+      "price": 49,
+      "gain": 17.280996,
+      "turnover": 363045610,
+      "batch_time": "2026-11-12T10:47:36+08:00",
+      "concepts": [
+        {
+          "code": "886054.TI",
+          "name": "光刻机",
+          "rank": 1
+        },
+        {
+          "code": "885864.TI",
+          "name": "光刻胶",
+          "rank": 1
+        }
+      ],
+      "strength": {
+        "volume_ratio": 1.8100158397171036,
+        "daily_volume_multiples": [
+          {
+            "date": "2026-11-09",
+            "multiple": 2.541563113120929
+          },
+          {
+            "date": "2026-11-10",
+            "multiple": 1.575036051325225
+          },
+          {
+            "date": "2026-11-11",
+            "multiple": 2.182280850274174
+          }
+        ],
+        "anchor_date": "2026-11-03",
+        "anchor_low": 36.06,
+        "startup_gain": 0.3588463671658346,
+        "anchor_method": "primary",
+        "anchor_needs_review": false
+      }
+    },
+    {
+      "code": "300666.SZ",
+      "name": "江丰电子",
+      "price": 218.26,
+      "gain": 4.395657,
+      "turnover": 2227987600,
+      "batch_time": "2026-11-12T10:47:36+08:00",
+      "concepts": [
+        {
+          "code": "886054.TI",
+          "name": "光刻机",
+          "rank": 2
+        },
+        {
+          "code": "886042.TI",
+          "name": "存储芯片",
+          "rank": 1
+        }
+      ],
+      "strength": {
+        "volume_ratio": 1.4890100950678555,
+        "daily_volume_multiples": [
+          {
+            "date": "2026-11-09",
+            "multiple": 1.125143377499088
+          },
+          {
+            "date": "2026-11-10",
+            "multiple": 1.3737028894612147
+          },
+          {
+            "date": "2026-11-11",
+            "multiple": 1.303063411325271
+          }
+        ],
+        "anchor_date": "2026-11-04",
+        "anchor_low": 154.08,
+        "startup_gain": 0.41653686396677037,
+        "anchor_method": "primary",
+        "anchor_needs_review": false
+      }
+    }
+  ],
+  "concepts": [
+    {
+      "code": "886054.TI",
+      "name": "光刻机",
+      "index_gain": 2.789625,
+      "full_concept_rank": 3,
+      "valid_members": 52,
+      "member_count": 52,
+      "coverage": 1,
+      "up_ratio": 0.9038461538461539,
+      "selected_codes": [
+        "301209.SZ",
+        "300666.SZ"
+      ]
+    },
+    {
+      "code": "886042.TI",
+      "name": "存储芯片",
+      "index_gain": 2.290119,
+      "full_concept_rank": 5,
+      "valid_members": 205,
+      "member_count": 205,
+      "coverage": 1,
+      "up_ratio": 0.8439024390243902,
+      "selected_codes": [
+        "300666.SZ"
+      ]
+    },
+    {
+      "code": "885860.TI",
+      "name": "中船系",
+      "index_gain": 2.142521,
+      "full_concept_rank": 6,
+      "valid_members": 10,
+      "member_count": 10,
+      "coverage": 1,
+      "up_ratio": 0.5,
+      "selected_codes": []
+    },
+    {
+      "code": "885864.TI",
+      "name": "光刻胶",
+      "index_gain": 2.010431,
+      "full_concept_rank": 7,
+      "valid_members": 80,
+      "member_count": 80,
+      "coverage": 1,
+      "up_ratio": 0.8375,
+      "selected_codes": [
+        "301209.SZ"
+      ]
+    },
+    {
+      "code": "886009.TI",
+      "name": "先进封装",
+      "index_gain": 1.913616,
+      "full_concept_rank": 8,
+      "valid_members": 215,
+      "member_count": 215,
+      "coverage": 1,
+      "up_ratio": 0.7953488372093023,
+      "selected_codes": []
+    }
+  ]
+}
