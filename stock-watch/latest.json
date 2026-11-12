@@ -2,19 +2,19 @@
   "status": "complete",
   "mode": "intraday",
   "trade_date": "2026-11-12",
-  "requested_at": "2026-11-12T11:00:00.457298+08:00",
-  "completed_at": "2026-11-12T11:01:57.106345+08:00",
-  "elapsed_seconds": 116.649,
+  "requested_at": "2026-11-12T11:05:02.296056+08:00",
+  "completed_at": "2026-11-12T11:06:11.958134+08:00",
+  "elapsed_seconds": 69.662,
   "quote_rows": 5580,
   "quote_valid_rows": 5572,
   "quote_valid_coverage": 0.9985663082437276,
   "index_requested": 390,
   "index_valid": 390,
   "history_as_of": "2026-11-11",
-  "slots": 4,
-  "unique_stocks": 3,
-  "rule_checked": 81,
-  "rule_pending": 9,
+  "slots": 3,
+  "unique_stocks": 2,
+  "rule_checked": 70,
+  "rule_pending": 8,
   "stock_rule_version": "intraday-strength-v1",
   "ranking_scope": "完整刷新390个概念指数后，剔除属性、宽泛背景及大方向，仅从266个已分类具体题材按涨幅选前5；未与客户端全榜逐项验收",
   "public_schema_version": 1,
@@ -37,10 +37,10 @@
     {
       "code": "301209.SZ",
       "name": "联合化学",
-      "price": 47.89,
-      "gain": 14.624222,
-      "turnover": 384392210,
-      "batch_time": "2026-11-12T11:01:32+08:00",
+      "price": 47.84,
+      "gain": 14.504548,
+      "turnover": 388760470,
+      "batch_time": "2026-11-12T11:05:55+08:00",
       "concepts": [
         {
           "code": "886054.TI",
@@ -71,7 +71,7 @@
         ],
         "anchor_date": "2026-11-03",
         "anchor_low": 36.06,
-        "startup_gain": 0.32806433721575146,
+        "startup_gain": 0.32667775929007203,
         "anchor_method": "primary",
         "anchor_needs_review": false
       }
@@ -79,10 +79,10 @@
     {
       "code": "300666.SZ",
       "name": "江丰电子",
-      "price": 212.91,
-      "gain": 1.836705,
-      "turnover": 2589764400,
-      "batch_time": "2026-11-12T11:01:32+08:00",
+      "price": 211.69,
+      "gain": 1.253169,
+      "turnover": 2660987200,
+      "batch_time": "2026-11-12T11:05:55+08:00",
       "concepts": [
         {
           "code": "886054.TI",
@@ -108,44 +108,7 @@
         ],
         "anchor_date": "2026-11-04",
         "anchor_low": 154.08,
-        "startup_gain": 0.38181464174454804,
-        "anchor_method": "primary",
-        "anchor_needs_review": false
-      }
-    },
-    {
-      "code": "002086.SZ",
-      "name": "东方海洋",
-      "price": 5.16,
-      "gain": 10.021322,
-      "turnover": 1546239000,
-      "batch_time": "2026-11-12T11:01:32+08:00",
-      "concepts": [
-        {
-          "code": "885927.TI",
-          "name": "CRO概念",
-          "rank": 1
-        }
-      ],
-      "strength": {
-        "volume_ratio": 2.903577443865219,
-        "daily_volume_multiples": [
-          {
-            "date": "2026-11-09",
-            "multiple": 4.685187743590821
-          },
-          {
-            "date": "2026-11-10",
-            "multiple": 3.6265383407778518
-          },
-          {
-            "date": "2026-11-11",
-            "multiple": 3.300170024039651
-          }
-        ],
-        "anchor_date": "2026-10-13",
-        "anchor_low": 1.99,
-        "startup_gain": 1.5929648241206031,
+        "startup_gain": 0.3738966770508825,
         "anchor_method": "primary",
         "anchor_needs_review": false
       }
@@ -155,7 +118,7 @@
     {
       "code": "886054.TI",
       "name": "光刻机",
-      "index_gain": 2.350485,
+      "index_gain": 2.409379,
       "full_concept_rank": 3,
       "valid_members": 52,
       "member_count": 52,
@@ -169,7 +132,7 @@
     {
       "code": "885860.TI",
       "name": "中船系",
-      "index_gain": 2.132541,
+      "index_gain": 2.246802,
       "full_concept_rank": 4,
       "valid_members": 10,
       "member_count": 10,
@@ -180,39 +143,37 @@
     {
       "code": "886042.TI",
       "name": "存储芯片",
-      "index_gain": 1.918984,
-      "full_concept_rank": 6,
+      "index_gain": 2.111824,
+      "full_concept_rank": 5,
       "valid_members": 205,
       "member_count": 205,
       "coverage": 1,
-      "up_ratio": 0.8292682926829268,
+      "up_ratio": 0.824390243902439,
       "selected_codes": []
     },
     {
       "code": "885864.TI",
       "name": "光刻胶",
-      "index_gain": 1.76223,
+      "index_gain": 1.887729,
       "full_concept_rank": 7,
       "valid_members": 80,
       "member_count": 80,
       "coverage": 1,
-      "up_ratio": 0.8375,
+      "up_ratio": 0.85,
       "selected_codes": [
         "301209.SZ"
       ]
     },
     {
-      "code": "885927.TI",
-      "name": "CRO概念",
-      "index_gain": 1.715889,
-      "full_concept_rank": 8,
-      "valid_members": 77,
-      "member_count": 77,
+      "code": "886009.TI",
+      "name": "先进封装",
+      "index_gain": 1.689036,
+      "full_concept_rank": 9,
+      "valid_members": 215,
+      "member_count": 215,
       "coverage": 1,
-      "up_ratio": 0.7922077922077922,
-      "selected_codes": [
-        "002086.SZ"
-      ]
+      "up_ratio": 0.786046511627907,
+      "selected_codes": []
     }
   ]
 }
