@@ -2,19 +2,19 @@
   "status": "complete",
   "mode": "intraday",
   "trade_date": "2026-11-12",
-  "requested_at": "2026-11-12T11:15:04.693126+08:00",
-  "completed_at": "2026-11-12T11:16:13.145987+08:00",
-  "elapsed_seconds": 68.453,
+  "requested_at": "2026-11-12T11:20:03.362442+08:00",
+  "completed_at": "2026-11-12T11:21:12.912931+08:00",
+  "elapsed_seconds": 69.55,
   "quote_rows": 5580,
   "quote_valid_rows": 5572,
   "quote_valid_coverage": 0.9985663082437276,
   "index_requested": 390,
   "index_valid": 390,
   "history_as_of": "2026-11-11",
-  "slots": 2,
-  "unique_stocks": 1,
-  "rule_checked": 73,
-  "rule_pending": 7,
+  "slots": 3,
+  "unique_stocks": 2,
+  "rule_checked": 82,
+  "rule_pending": 9,
   "stock_rule_version": "intraday-strength-v1",
   "ranking_scope": "完整刷新390个概念指数后，剔除属性、宽泛背景及大方向，仅从266个已分类具体题材按涨幅选前5；未与客户端全榜逐项验收",
   "public_schema_version": 1,
@@ -37,10 +37,10 @@
     {
       "code": "301209.SZ",
       "name": "联合化学",
-      "price": 47.34,
-      "gain": 13.307803,
-      "turnover": 396352720,
-      "batch_time": "2026-11-12T11:15:54+08:00",
+      "price": 47.33,
+      "gain": 13.283868,
+      "turnover": 399462400,
+      "batch_time": "2026-11-12T11:20:54+08:00",
       "concepts": [
         {
           "code": "886054.TI",
@@ -71,7 +71,44 @@
         ],
         "anchor_date": "2026-11-03",
         "anchor_low": 36.06,
-        "startup_gain": 0.3128119800332778,
+        "startup_gain": 0.31253466444814193,
+        "anchor_method": "primary",
+        "anchor_needs_review": false
+      }
+    },
+    {
+      "code": "002086.SZ",
+      "name": "东方海洋",
+      "price": 5.16,
+      "gain": 10.021322,
+      "turnover": 1551612100,
+      "batch_time": "2026-11-12T11:20:54+08:00",
+      "concepts": [
+        {
+          "code": "885927.TI",
+          "name": "CRO概念",
+          "rank": 1
+        }
+      ],
+      "strength": {
+        "volume_ratio": 2.903577443865219,
+        "daily_volume_multiples": [
+          {
+            "date": "2026-11-09",
+            "multiple": 4.685187743590821
+          },
+          {
+            "date": "2026-11-10",
+            "multiple": 3.6265383407778518
+          },
+          {
+            "date": "2026-11-11",
+            "multiple": 3.300170024039651
+          }
+        ],
+        "anchor_date": "2026-10-13",
+        "anchor_low": 1.99,
+        "startup_gain": 1.5929648241206031,
         "anchor_method": "primary",
         "anchor_needs_review": false
       }
@@ -81,7 +118,7 @@
     {
       "code": "885860.TI",
       "name": "中船系",
-      "index_gain": 2.310626,
+      "index_gain": 2.45411,
       "full_concept_rank": 3,
       "valid_members": 10,
       "member_count": 10,
@@ -92,7 +129,7 @@
     {
       "code": "886054.TI",
       "name": "光刻机",
-      "index_gain": 2.019859,
+      "index_gain": 1.990116,
       "full_concept_rank": 4,
       "valid_members": 52,
       "member_count": 52,
@@ -105,37 +142,39 @@
     {
       "code": "886042.TI",
       "name": "存储芯片",
-      "index_gain": 1.605837,
+      "index_gain": 1.503934,
       "full_concept_rank": 5,
       "valid_members": 205,
       "member_count": 205,
       "coverage": 1,
-      "up_ratio": 0.7902439024390244,
+      "up_ratio": 0.7853658536585366,
       "selected_codes": []
     },
     {
       "code": "885864.TI",
       "name": "光刻胶",
-      "index_gain": 1.539545,
+      "index_gain": 1.477921,
       "full_concept_rank": 6,
       "valid_members": 80,
       "member_count": 80,
       "coverage": 1,
-      "up_ratio": 0.8,
+      "up_ratio": 0.775,
       "selected_codes": [
         "301209.SZ"
       ]
     },
     {
-      "code": "886009.TI",
-      "name": "先进封装",
-      "index_gain": 1.240996,
+      "code": "885927.TI",
+      "name": "CRO概念",
+      "index_gain": 1.219198,
       "full_concept_rank": 9,
-      "valid_members": 215,
-      "member_count": 215,
+      "valid_members": 77,
+      "member_count": 77,
       "coverage": 1,
-      "up_ratio": 0.6976744186046512,
-      "selected_codes": []
+      "up_ratio": 0.6623376623376623,
+      "selected_codes": [
+        "002086.SZ"
+      ]
     }
   ]
 }
