@@ -2,19 +2,19 @@
   "status": "complete",
   "mode": "intraday",
   "trade_date": "2026-11-12",
-  "requested_at": "2026-11-12T13:00:03.138084+08:00",
-  "completed_at": "2026-11-12T13:01:30.396217+08:00",
-  "elapsed_seconds": 87.258,
+  "requested_at": "2026-11-12T13:05:00.154175+08:00",
+  "completed_at": "2026-11-12T13:06:24.561565+08:00",
+  "elapsed_seconds": 84.407,
   "quote_rows": 5580,
   "quote_valid_rows": 5572,
   "quote_valid_coverage": 0.9985663082437276,
   "index_requested": 390,
   "index_valid": 390,
   "history_as_of": "2026-11-11",
-  "slots": 2,
-  "unique_stocks": 2,
-  "rule_checked": 81,
-  "rule_pending": 9,
+  "slots": 4,
+  "unique_stocks": 4,
+  "rule_checked": 66,
+  "rule_pending": 4,
   "stock_rule_version": "intraday-strength-v1",
   "ranking_scope": "完整刷新390个概念指数后，剔除属性、宽泛背景及大方向，仅从266个已分类具体题材按涨幅选前5；未与客户端全榜逐项验收",
   "public_schema_version": 1,
@@ -37,10 +37,10 @@
     {
       "code": "300666.SZ",
       "name": "江丰电子",
-      "price": 210.9,
-      "gain": 0.875305,
-      "turnover": 2934203100,
-      "batch_time": "2026-11-12T13:01:19+08:00",
+      "price": 209.58,
+      "gain": 0.243937,
+      "turnover": 2963801000,
+      "batch_time": "2026-11-12T13:05:51+08:00",
       "concepts": [
         {
           "code": "886054.TI",
@@ -66,7 +66,7 @@
         ],
         "anchor_date": "2026-11-04",
         "anchor_low": 154.08,
-        "startup_gain": 0.3687694704049844,
+        "startup_gain": 0.3602024922118381,
         "anchor_method": "primary",
         "anchor_needs_review": false
       }
@@ -76,8 +76,8 @@
       "name": "东方海洋",
       "price": 5.16,
       "gain": 10.021322,
-      "turnover": 1559912800,
-      "batch_time": "2026-11-12T13:01:19+08:00",
+      "turnover": 1562315300,
+      "batch_time": "2026-11-12T13:05:51+08:00",
       "concepts": [
         {
           "code": "885927.TI",
@@ -107,29 +107,103 @@
         "anchor_method": "primary",
         "anchor_needs_review": false
       }
+    },
+    {
+      "code": "001318.SZ",
+      "name": "阳光乳业",
+      "price": 15.5,
+      "gain": 10.007097,
+      "turnover": 438731510,
+      "batch_time": "2026-11-12T13:05:51+08:00",
+      "concepts": [
+        {
+          "code": "885462.TI",
+          "name": "乳业",
+          "rank": 1
+        }
+      ],
+      "strength": {
+        "volume_ratio": 2.118258243034588,
+        "daily_volume_multiples": [
+          {
+            "date": "2026-11-09",
+            "multiple": 1.660495181526918
+          },
+          {
+            "date": "2026-11-10",
+            "multiple": 1.588045824955519
+          },
+          {
+            "date": "2026-11-11",
+            "multiple": 2.2970148322316133
+          }
+        ],
+        "anchor_date": "2026-09-30",
+        "anchor_low": 11.75,
+        "startup_gain": 0.31914893617021267,
+        "anchor_method": "primary",
+        "anchor_needs_review": false
+      }
+    },
+    {
+      "code": "001219.SZ",
+      "name": "青岛食品",
+      "price": 23.38,
+      "gain": 3.405573,
+      "turnover": 908403790,
+      "batch_time": "2026-11-12T13:05:51+08:00",
+      "concepts": [
+        {
+          "code": "885462.TI",
+          "name": "乳业",
+          "rank": 2
+        }
+      ],
+      "strength": {
+        "volume_ratio": 4.5349146889846415,
+        "daily_volume_multiples": [
+          {
+            "date": "2026-11-09",
+            "multiple": 6.7970179955010215
+          },
+          {
+            "date": "2026-11-10",
+            "multiple": 5.806541620717724
+          },
+          {
+            "date": "2026-11-11",
+            "multiple": 6.383710480538272
+          }
+        ],
+        "anchor_date": "2026-10-26",
+        "anchor_low": 13.08,
+        "startup_gain": 0.7874617737003058,
+        "anchor_method": "primary",
+        "anchor_needs_review": false
+      }
     }
   ],
   "concepts": [
     {
       "code": "885860.TI",
       "name": "中船系",
-      "index_gain": 2.08784,
-      "full_concept_rank": 3,
+      "index_gain": 1.699698,
+      "full_concept_rank": 2,
       "valid_members": 10,
       "member_count": 10,
       "coverage": 1,
-      "up_ratio": 0.8,
+      "up_ratio": 0.5,
       "selected_codes": []
     },
     {
       "code": "886054.TI",
       "name": "光刻机",
-      "index_gain": 1.508112,
+      "index_gain": 1.133883,
       "full_concept_rank": 4,
       "valid_members": 52,
       "member_count": 52,
       "coverage": 1,
-      "up_ratio": 0.7307692307692307,
+      "up_ratio": 0.6346153846153846,
       "selected_codes": [
         "300666.SZ"
       ]
@@ -137,37 +211,40 @@
     {
       "code": "885927.TI",
       "name": "CRO概念",
-      "index_gain": 1.328637,
+      "index_gain": 1.056268,
       "full_concept_rank": 5,
       "valid_members": 77,
       "member_count": 77,
       "coverage": 1,
-      "up_ratio": 0.6623376623376623,
+      "up_ratio": 0.5974025974025974,
       "selected_codes": [
         "002086.SZ"
       ]
     },
     {
-      "code": "886042.TI",
-      "name": "存储芯片",
-      "index_gain": 1.129927,
+      "code": "886018.TI",
+      "name": "高压氧舱",
+      "index_gain": 0.991367,
       "full_concept_rank": 6,
-      "valid_members": 205,
-      "member_count": 205,
+      "valid_members": 11,
+      "member_count": 11,
       "coverage": 1,
-      "up_ratio": 0.6780487804878049,
+      "up_ratio": 0.5454545454545454,
       "selected_codes": []
     },
     {
-      "code": "885864.TI",
-      "name": "光刻胶",
-      "index_gain": 1.092466,
+      "code": "885462.TI",
+      "name": "乳业",
+      "index_gain": 0.875358,
       "full_concept_rank": 7,
-      "valid_members": 80,
-      "member_count": 80,
-      "coverage": 1,
-      "up_ratio": 0.6625,
-      "selected_codes": []
+      "valid_members": 36,
+      "member_count": 37,
+      "coverage": 0.972972972972973,
+      "up_ratio": 0.6388888888888888,
+      "selected_codes": [
+        "001318.SZ",
+        "001219.SZ"
+      ]
     }
   ]
 }
